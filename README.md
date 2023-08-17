@@ -1,5 +1,5 @@
 # COMTool
-XINYI COMTool Assist is a cross platform serial port testing debug tools written by VC.
+XINYI COMTool Assist is a serial port testing debug tools written by VC
 
 Features
 -	Auto save of received data area when exit
